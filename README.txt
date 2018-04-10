@@ -1,0 +1,1 @@
+Ce projet rentre dans le cadre du developpement d'une application de Presentation personnel. En gros, ce que je suis, la formation que je fais ou que j'ai effectue, mes competences, mon experience professionnelle ou encore mes projets personnels que j'ai deja developpe
